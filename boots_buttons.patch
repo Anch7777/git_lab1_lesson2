@@ -1,0 +1,15 @@
+Subject: [PATCH] boots_buttons
+---
+Index: README
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README b/README
+--- a/README	(revision 1ebbb7263e7a07ceb7dbdf57fa994de0329b9c41)
++++ b/README	(revision b356a29c48e971b72fb98208acb314aba463a9d8)
+@@ -1,3 +1,3 @@
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch).
++Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+ 
+ You must receive some image as in demo branch
